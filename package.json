@@ -56,7 +56,8 @@
   },
   "dependencies": {
     "corepack": "^0.18.0",
-    "npm": "^9.6.7"
+    "npm": "^9.6.7",
+    "swiper": "^10.2.0"
   },
   "repository": {
     "type": "git",
